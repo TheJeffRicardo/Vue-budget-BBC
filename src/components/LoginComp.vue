@@ -76,7 +76,7 @@ article{
       left: -100%;
       height: 100%;
       width: 200%;
-      background: linear-gradient(to bottom right, #38dcef, #8472e9);
+      background: linear-gradient(to bottom right, #FF9001, #FF4200);
       color: #fff;
       transform: translateX(0);
       transition: transform .5s ease-in-out;
@@ -124,8 +124,8 @@ article{
 
   button {
     border-radius: 20px;
-    border: 1px solid #1863ae;
-    background-color: #1863ae;
+    border: 1px solid #FF4200;
+    background-color: #FF4200;
     color: #fff;
     font-size: 1rem;
     font-weight: bold;
