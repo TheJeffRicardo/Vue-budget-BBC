@@ -47,6 +47,9 @@
 </script>
 
 <style lang="scss" scoped>
+article{
+    margin-left: 25%;
+}
   .container {
     position: relative;
     width: 768px;
